@@ -1,6 +1,7 @@
-#highway
+# highway
+
 [AIRport](https://beyond-decentralized.world/documentation.html#AIRport) 
-exteions for the server environment.  More information can be found at
+extensions for the server environment.  More information can be found at
 https://beyond-decentralized.world/documentation.html#Highway
 
 [control](./control)

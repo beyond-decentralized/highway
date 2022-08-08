@@ -1,6 +1,6 @@
 # highway
 
-[AIRport](https://beyond-decentralized.world/documentation.html#AIRport) 
+[AIRport](https://github.com/beyond-decentralized/AIRport) 
 extensions for the server environment.  More information can be found at
 https://beyond-decentralized.world/documentation.html#Highway
 

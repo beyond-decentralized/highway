@@ -12,7 +12,7 @@
       "shouldPublish": true
     },
     {
-      "packageName": "@highway/hw-flow",
+      "packageName": "@highway/flow",
       "projectFolder": "flow",
       "shouldPublish": true
     },
@@ -22,7 +22,7 @@
       "shouldPublish": true
     },
     {
-      "packageName": "@highway/hw-vespa",
+      "packageName": "@highway/vespa",
       "projectFolder": "vespa",
       "shouldPublish": true
     },
@@ -218,6 +218,27 @@
     {
       "packageName": "@airport/travel-document-checkpoint",
       "projectFolder": "../AIRport/schemas/travel-document-checkpoint",
+      "shouldPublish": true
+    },
+    // AIRway (alphabetical order)
+    {
+      "packageName": "@airway/client",
+      "projectFolder": "../AIRway/client",
+      "shouldPublish": true
+    },
+    {
+      "packageName": "@airway/in-memory-server",
+      "projectFolder": "../AIRway/in-memory-server",
+      "shouldPublish": true
+    },
+    {
+      "packageName": "@airway/types",
+      "projectFolder": "../AIRway/types",
+      "shouldPublish": true
+    },
+    {
+      "packageName": "@airway/processor-common",
+      "projectFolder": "../AIRway/processor-common",
       "shouldPublish": true
     }
   ]

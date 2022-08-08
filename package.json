@@ -1,0 +1,32 @@
+{
+  "version": "0.0.1",
+  "name": "highway",
+  "description": "Autonomous Interdependent Repository port",
+  "license": "MIT & Apache 2.0",
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyond-decentralized/highway.git"
+  },
+  "keywords": [
+    "Autonomous Interdependent Repositories",
+    "AIR highway"
+  ],
+  "author": "Artem <Artem.V.Shamsutdinov@beyond-decentralized.world> (https://beyond-decentralized.world/)",
+  "devDependencies": {
+    "husky": "^4.3.6",
+    "prettier": "^2.2.1",
+    "prettier-plugin-svelte": "^1.4.2",
+    "pretty-quick": "^3.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/beyond-decentralized/highway/issues"
+  },
+  "homepage": "https://github.com/beyond-decentralized/highway#readme"
+}
